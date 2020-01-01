@@ -2,6 +2,7 @@
   "name": "the-color-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sourabhbagrecha.github.io/my-react-color-project",
   "dependencies": {
     "@material-ui/core": "^4.8.0",
     "@material-ui/icons": "^4.5.1",
@@ -23,6 +24,8 @@
     "react-transition-group": "^4.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
