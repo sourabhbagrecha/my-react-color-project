@@ -2,6 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/27056663/71717465-362d2600-2e3e-11ea-970b-4530fe4f8478.png)
 
+![image](https://user-images.githubusercontent.com/27056663/71717618-a3d95200-2e3e-11ea-97b5-6f3c08e871d1.png)
+
+![image](https://user-images.githubusercontent.com/27056663/71717682-cec3a600-2e3e-11ea-9274-a1237a1c47c0.png)
+
+![image](https://user-images.githubusercontent.com/27056663/71717920-aab49480-2e3f-11ea-8788-1be8dcd071db.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
