@@ -1,11 +1,16 @@
+## Homepage: Collection of Color Palettes
 ![image](https://user-images.githubusercontent.com/27056663/71717380-eea69a00-2e3d-11ea-8786-a4906870c2c0.png)
 
+## Color Palette Creator
 ![image](https://user-images.githubusercontent.com/27056663/71717465-362d2600-2e3e-11ea-970b-4530fe4f8478.png)
 
+## A sing Palette View
 ![image](https://user-images.githubusercontent.com/27056663/71717618-a3d95200-2e3e-11ea-97b5-6f3c08e871d1.png)
 
+## Single Color Palette consisting various shades of a single color
 ![image](https://user-images.githubusercontent.com/27056663/71717682-cec3a600-2e3e-11ea-9274-a1237a1c47c0.png)
 
+## Screen overlay whenever a color has been copied to clipboard
 ![image](https://user-images.githubusercontent.com/27056663/71717920-aab49480-2e3f-11ea-8788-1be8dcd071db.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
