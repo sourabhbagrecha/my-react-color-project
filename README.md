@@ -4,7 +4,7 @@
 ## Color Palette Creator
 ![image](https://user-images.githubusercontent.com/27056663/71717465-362d2600-2e3e-11ea-970b-4530fe4f8478.png)
 
-## A sing Palette View
+## A single Palette View
 ![image](https://user-images.githubusercontent.com/27056663/71717618-a3d95200-2e3e-11ea-97b5-6f3c08e871d1.png)
 
 ## Single Color Palette consisting various shades of a single color
